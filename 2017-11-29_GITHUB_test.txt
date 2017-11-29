@@ -1,0 +1,14 @@
+-----------------------------------------
+Hola a todos,
+mañana miércoles 29 haremos un tutorial de introducción al control de versiones usando git&GitHub. Usaremos principalmente GitHub Desktop, que debe estar previamente instalada en vuestros portátiles. Para adelantar trabajo, os dejo los enlaces con el software necesario que debéis instalar:
++ Instrucciones para instalar git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
++ GitHub Desktop: https://desktop.github.com/  (Para Linux no hay paquetes oficiales, yo he utilizado https://github.com/appelgriebsch/dotFiles/releases/tag/0.1.0)
+También se necesita un editor de texto (sin formato) tipo Notepad (Windows), TextEdit (MacOS), Vim, Emacs, ..
+Para aquellos que se encuentren cómodos con la línea de comandos de git, no sería necesario instalar GitHub Desktop, aunque en principio el tutorial se basará en esta aplicación.
+No dudéis en contactarme si tenéis algún problema o duda.
+Un saludo,
+Pablo Orviz
+
+-----------------------------------------
+
+
