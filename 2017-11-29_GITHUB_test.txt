@@ -8,7 +8,6 @@ Para aquellos que se encuentren cómodos con la línea de comandos de git, no se
 No dudéis en contactarme si tenéis algún problema o duda.
 Un saludo,
 Pablo Orviz
-
 -----------------------------------------
 
 
